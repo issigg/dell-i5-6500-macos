@@ -5,7 +5,7 @@
 ## What's this?
 
 This is a clover efi for running macOS Mojave on Dell computers, will work on any dell computers running 6th generation Intel processors with integrated graphics. 
-In order to get your graphics working you will need to update some EFI BIOS variables. You can find out how to do this [here](efitutorial.md) and [MathQuill](http://mathquill.com/).
+In order to get your graphics working you will need to update some EFI BIOS variables. You can find out how to do this [here](efitutorial.md).
 
 <img src="screenshot.png">
 
